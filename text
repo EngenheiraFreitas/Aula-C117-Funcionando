@@ -1,0 +1,19 @@
+$(function () {
+    $("#predict_button").click(function () {
+        //chamada AJAX
+
+        $.ajax({
+            
+            
+              {
+                
+                // Resultado recebido do Flask ----->JavaScript
+                
+                // Exibir resultado usando JavaScript----->HTML
+                
+            },
+            //Função de erro
+            
+        });
+    });
+})
